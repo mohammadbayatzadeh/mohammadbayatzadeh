@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Im Mohammad.👋</h1>
 <h3 align="center">Frontend developer </h3>
 
-<p align="center">Front end developer with +3 year experience using Reactjs , Js , Ts , css ,html paired with bootstrap and tailwind. With interest in learning new technologies , learned Nextjs ,Nodejs, Expressjs</p>
+<p align="center">Front end developer with +5 year experience using Reactjs , Js , Ts , css ,html paired with bootstrap and tailwind. With interest in learning new technologies , learned Nextjs ,Nodejs, Expressjs</p>
 <p align="center">A learner with a passion for learning new Techs.</p>
 
 <h3 align="center">Languages and Tools:</h3>
